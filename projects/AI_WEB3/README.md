@@ -1,15 +1,15 @@
-# Basic Sample Hardhat Project
+# AI in Web3
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+On the POV os the arquitecture, the AI can adopte 3 components:
 
-Try running some of the following tasks:
+- TensorFlow.js : It enables machine learning models runnning and training inside browsers.
+- Gradient descent : Smart contracts ca implement Gradient.
+- Close-form : Smart contracts can also solve the machine learning model parameters in close-form.
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+![AIarquitecture]()
+
+## Algorithms
+
+We can define 6 scenarios for AI adoption in Web3.0. The goal of this section is to figure out the theorical best practice among scenarios.
+
+![AlrithmImage]()
