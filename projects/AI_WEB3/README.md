@@ -12,4 +12,4 @@ On the POV os the arquitecture, the AI can adopte 3 components:
 
 We can define 6 scenarios for AI adoption in Web3.0. The goal of this section is to figure out the theorical best practice among scenarios.
 
-![AlrithmImage]()
+![AlrithmImage](https://raw.githubusercontent.com/RafaBlockDev/Personsal-Web3-Projects/main/projects/AI_WEB3/utils/AlgorithmImage.png)
