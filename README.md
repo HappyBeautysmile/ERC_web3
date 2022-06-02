@@ -6,7 +6,7 @@ ALERT!! 🚨
 This repositories are not 100% checked that can works very well for serious and real world project!
 But always I am looking for to improve all this small projects! 📝
 
-![HomeImage](https://raw.githubusercontent.com/RafaBlockDev/Personsal-Web3-Projects/main/utils/images/HomeImage.jpeg)
+![HomeImage]()
 
 ## Arquitecture of my small projects
 
