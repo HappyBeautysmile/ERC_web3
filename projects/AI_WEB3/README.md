@@ -23,3 +23,13 @@ Costs: TensorFlow.js execute itself on frontend, (almost without costs). However
 Privacy-wise, keeping all the data inside your browser is clearly a more secure solution. In scenario 3, to train the smart contract, users might have to expose their personal data. And the trained models that live inside smart contracts are open, which also lead to privacy concerns. Therefore, Scenario 1 wins again.
 
 Speed-wise, this is the part I am not so sure. I think the speed of Scenario 1 is acceptable for normal applications, as demonstrated in the last section of this article. For the speed of EVM, it is not.
+
+But, here we have another altenative...
+
+![Alternative]()
+
+In the 4 scenario (as the 1 scenario) TensorFlow.js almost has not costs, and in the 5 scenario the smart contract can be deployed just 1 time.
+
+Privacy-wise, since general purpose tasks normally do not require users’ data, both solutions are safe.
+
+Speed-wise, the comparison is also identical to the previous section. Without concrete evidence.
