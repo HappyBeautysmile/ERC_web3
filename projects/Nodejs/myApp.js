@@ -5,11 +5,10 @@ let app = express();
 // res = objeto de respuesta
 
 app.get("/", (req, res) => {
+    console.log("Route handler called")
     res.send("Hello Express");
 });
 
-app.listen(3000, function() {
-    console.log("App de ejemplo, listeing in port 3000");
-});
+app.listen(3001);
 
 module.exports = app;
