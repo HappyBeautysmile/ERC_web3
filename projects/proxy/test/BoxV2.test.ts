@@ -20,8 +20,8 @@ describe("BoxV2", function () {
   })
 
   it("Should increment value correctly", async function () {
-      await boxV2.store(4);
+      await boxV2.store(1);
       await boxV2.increment();
-      expect(await boxV2.retrieve()).to.equal(BigNumber.from("4"));
+      expect(await boxV2.retrieve()).to.equal(BigNumber.from("2"));
   })
 })
