@@ -3,7 +3,7 @@
 On the POV os the arquitecture, the AI can adopte 3 components:
 
 - TensorFlow.js : It enables machine learning models runnning and training inside browsers.
-- Gradient descent : Smart contracts ca implement Gradient.
+- Gradient descent : Smart contracts can implement Gradient.
 - Close-form : Smart contracts can also solve the machine learning model parameters in close-form.
 
 ![AIarquitecture](https://raw.githubusercontent.com/RafaBlockDev/Personsal-Web3-Projects/main/Tools/images/Commun_Arquitecture.png)
