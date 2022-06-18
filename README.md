@@ -2,6 +2,8 @@
 
 This repository has my personal projects where I experiment with new web3 projects, new tools, new alternatives, research about EVM, blockchain, web3, opcodes, solidity, huff language, AI, and more! 🚀
 
+Projects are deployed to Layer2 for better speed and costs cheaper than L1 🌎
+
 ALERT!! 🚨
 This repositories are not 100% checked that can works very well for serious and real world project!
 But always I am looking for to improve all this small projects! 📝
@@ -17,3 +19,5 @@ The arquitecture for my small projects is simple, only following the backend, th
 ## Portafolio
 
 Some projects created on this repository will be showed on the Rafa´s website...
+
+
