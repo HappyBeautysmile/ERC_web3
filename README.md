@@ -10,13 +10,13 @@ But always I am looking for to improve all this small projects! 📝
 
 ![HomeImage](https://raw.githubusercontent.com/RafaBlockDev/Personsal-Web3-Projects/main/Tools/images/HomeImage.jpg)
 
-## Arquitecture of my small projects
+## Arquitecture of my small projects 🏛
 
-The arquitecture for my small projects is simple, only following the backend, the logic, and the frontend, also showing the tools I will use in some projects (Not at all). 🏛
+The arquitecture for my small projects is simple, only following the backend, the logic, and the frontend, also showing the tools I will use in some projects (Not at all). 👨🏻‍💻
 
 ![CommunArquitecture](https://raw.githubusercontent.com/RafaBlockDev/Personsal-Web3-Projects/main/Tools/images/Commun_Arquitecture.png)
 
-## Portafolio
+## Portafolio 🧳
 
 Some projects created on this repository will be showed on the Rafa´s website...
 
