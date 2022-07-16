@@ -7,6 +7,10 @@ actor {
     return counter;
   }
 
+  public query func getCount() : async Nat {
+    return counter;
+  }
+
   public func greet(name : Text) : async Text {
     return "Hello, " # name # "!";
   };
