@@ -11,6 +11,9 @@ actor {
             case(#add(e1,e2)) eval(e1) + eval(e2);
             case(#mul(e1,e2)) eval(e1) * eval(e2);
         };
-    }
+    };
 
+    public func calculate(exp : Expression) : async Int {
+        return eval(exp);
+    }
 }
