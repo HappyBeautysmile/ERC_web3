@@ -11,6 +11,11 @@ actor {
     return counter;
   }
 
+  public func reset() : async Nat {
+    counter := 0;
+    return counter;
+  }
+
   public func greet(name : Text) : async Text {
     return "Hello, " # name # "!";
   };
