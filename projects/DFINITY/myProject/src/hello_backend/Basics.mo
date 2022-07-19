@@ -15,3 +15,15 @@ hexDigit ::= ["0"-"9"-"a"-"f"-"A"-"F"];
 num ::= digit("_"? digit)*
 hexnum ::= hexDigit("_"? hexDigit)*
 nat ::= num | "0x" hexnum
+
+/* 
+    Los literales de coma flotante se excribne en 0x notación científica decimal o hexadecimal
+*/
+
+let franc = num;
+let hexFranc = hexnum;
+let float = 
+    num "." frac?
+|   num ("." frac?)? ("e" | "E") sign? num
+|   "0x" hexnum "." hexFranc?
+|   "0x" hexnum ("." hexFranc?)? ("p" | "P") sign? num
