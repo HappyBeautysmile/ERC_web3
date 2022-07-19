@@ -51,3 +51,14 @@ text ::= `"` character* `"`
     <float>
     <char>
     <text>
+
+A // Aritmética --> Operaciones aritméticas
+L // Lógico --> Operaciones lógicas/booleanas
+B // bit a bit --> Operaciones bit a bit y de ajuste
+O // Ordenado --> Comparación
+T // Texto --> Concatenación
+
+-
++
+^
+!
