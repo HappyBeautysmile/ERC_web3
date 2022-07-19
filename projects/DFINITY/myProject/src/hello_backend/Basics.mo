@@ -39,3 +39,15 @@ let float =
 */
 
 text ::= `"` character* `"`
+
+/* 
+    Literals:
+    Son valores constantes. La validez sintáctica de un literal depende
+    de la precision del tipo en el que se utiliza
+*/
+
+<lit> ::=
+    <nat>
+    <float>
+    <char>
+    <text>
