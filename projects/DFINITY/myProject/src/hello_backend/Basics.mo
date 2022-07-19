@@ -27,3 +27,15 @@ let float =
 |   num ("." frac?)? ("e" | "E") sign? num
 |   "0x" hexnum "." hexFranc?
 |   "0x" hexnum ("." hexFranc?)? ("p" | "P") sign? num
+
+/* 
+    Characters
+    Es una comilla simple ´ delimitada
+*/
+
+/* 
+    Text:
+    is " una secuencia delimitada de caracteres
+*/
+
+text ::= `"` character* `"`
